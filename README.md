@@ -37,31 +37,3 @@
 
 ![Snake animation](https://github.com/valeria-pessoa/valeria-pessoa/blob/output/github-contribution-grid-snake.svg)
 
-###
-<h2 align="left">Projetos</h2>
-
-<h3 align="left">Model Car</h3>
-
-<p align="left">https://modelcar.herokuapp.com/</p>
-
-<p align="left">Desenvolvido com boas práticas de programação o site Model Car usa as seguintes tecnologias:</p>
-
-<ul>
-  <li>Bootstrap</li>
-  <li>JavaScript</li>
-  <li>CSS</li>
-  <li>HTML</li>
-</ul>
-<br>
-
-![Model Card](/images/img-1.png "Model Car")
-<br><br><br>
-
-![Model Card](/images/img-2.png "Model Car")
-<br><br><br>
-
-![Model Card](/images/img-3.png "Model Car")
-<br><br><br>
-
-![Model Card](/images/img-4.png "Model Car")
-<br><br><br>
