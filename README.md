@@ -21,7 +21,7 @@
 
 ###
 
-<!--
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
@@ -29,12 +29,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="30" width="42" alt="bulma logo"  />
-</div>    -->
+</div>    
 
 ###
 
 <br clear="both">
 
-
-![Snake animation](https://github.com/valeria-pessoa/valeria-pessoa/blob/output/github-contribution-grid-snake.svg)
+<!--
+![Snake animation](https://github.com/valeria-pessoa/valeria-pessoa/blob/output/github-contribution-grid-snake.svg)  -->
 
