@@ -51,5 +51,6 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 ## Contato
 
-- **LinkedIn:** [https://www.linkedin.com/in/valeriapessoa-vall](https://www.linkedin.com/in/valeriapessoa-vall)
 - **Portfólio:** [https://valeriapessoa-vall.vercel.app](https://valeriapessoa-vall.vercel.app)
+- **LinkedIn:** [https://www.linkedin.com/in/valeriapessoa-vall](https://www.linkedin.com/in/valeriapessoa-vall)
+
