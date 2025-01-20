@@ -6,11 +6,13 @@ Frontend Junior formada em Ciência da Computação, com experiência em desenvo
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-1. 🏥 **[E-Clinic](https://e-clinic-projeto.vercel.app/):** E-Clinic é um site moderno com autenticação via Google e agendamento online de consulta. [Veja mais](https://valeriapessoa-vall.vercel.app)
+1. 🏥 **[E-Clinic](https://e-clinic-projeto.vercel.app/):** E-Clinic é um site moderno com autenticação via Google e agendamento online de consulta. 
 
-2. 🏛️ **[Visual Designer](https://visual-designer-rust.vercel.app/):** Neste projeto, eu recriei um site de arquitetura usando React com novas funcionalidades. [Veja mais](https://valeriapessoa-vall.vercel.app)
+2. 🏛️ **[Visual Designer](https://visual-designer-rust.vercel.app/):** Neste projeto, eu recriei um site de arquitetura usando React com novas funcionalidades.
 
-3. 🚗 **[Model Car](https://project-model-car.vercel.app/):** Este projeto é uma expressão do meu comprometimento em criar uma interface criativa e responsiva para os amantes de carros. [Veja mais](https://valeriapessoa-vall.vercel.app)
+3. 🚗 **[Model Car](https://project-model-car.vercel.app/):** Este projeto é uma expressão do meu comprometimento em criar uma interface criativa e responsiva para os amantes de carros.
+
+   [Veja mais](https://valeriapessoa-vall.vercel.app)
 
 <h2 align="left">Competências</h2>
 
