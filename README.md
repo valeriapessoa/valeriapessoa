@@ -6,15 +6,13 @@ Frontend Junior formada em Ciência da Computação, com experiência em desenvo
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-1. 🏥 **[E-Clinic](https://e-clinic-projeto.vercel.app/):** E-Clinic é um site moderno com autenticação via Google e agendamento online de consulta.
+1. 🏥 **[E-Clinic](https://e-clinic-projeto.vercel.app/):** E-Clinic é um site moderno com autenticação via Google e agendamento online de consulta. [Veja mais](https://valeriapessoa-vall.vercel.app)
 
-2. 🏛️ **[Visual Designer](https://visual-designer-rust.vercel.app/):** Neste projeto, eu recriei um site de arquitetura usando React com novas funcionalidades.
+2. 🏛️ **[Visual Designer](https://visual-designer-rust.vercel.app/):** Neste projeto, eu recriei um site de arquitetura usando React com novas funcionalidades. [Veja mais](https://valeriapessoa-vall.vercel.app)
 
-3. 🚗 **[Model Car](https://project-model-car.vercel.app/):** Este projeto é uma expressão do meu comprometimento em criar uma interface criativa e responsiva para os amantes de carros.
+3. 🚗 **[Model Car](https://project-model-car.vercel.app/):** Este projeto é uma expressão do meu comprometimento em criar uma interface criativa e responsiva para os amantes de carros. [Veja mais](https://valeriapessoa-vall.vercel.app)
 
 <h2 align="left">Competências</h2>
-
-###
 
 <div align="left">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -47,10 +45,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 - **GitHub**: Plataforma de hospedagem de código-fonte e controle de versão.  
 - **MongoDB**: Banco de dados NoSQL orientado a documentos.  
 
-###
-
 ## Contato
 
 - **Portfólio:** [https://valeriapessoa-vall.vercel.app](https://valeriapessoa-vall.vercel.app)
 - **LinkedIn:** [https://www.linkedin.com/in/valeriapessoa-vall](https://www.linkedin.com/in/valeriapessoa-vall)
-
