@@ -10,7 +10,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 2. 🏛️ **[Visual Designer](https://visual-designer-rust.vercel.app/):** Neste projeto, eu recriei um site de arquitetura usando React com novas funcionalidades.
 
-3. 🚗 **[Project Model Car](https://project-model-car.vercel.app/):** Este projeto é uma expressão do meu comprometimento em criar uma interface criativa e responsiva para os amantes de carros.
+3. 🚗 **[Model Car](https://project-model-car.vercel.app/):** Este projeto é uma expressão do meu comprometimento em criar uma interface criativa e responsiva para os amantes de carros.
 
 <h2 align="left">Competências</h2>
 
