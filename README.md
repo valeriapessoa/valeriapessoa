@@ -12,7 +12,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 3. 🚗 **[Model Car](https://project-model-car.vercel.app/):** Este projeto é uma expressão do meu comprometimento em criar uma interface criativa e responsiva para os amantes de carros.
 
-   [Veja mais](https://valeriapessoa-vall.vercel.app)
+   [Veja mais](https://valeriapessoa-vall.vercel.app/#)
 
 <h2 align="left">Competências</h2>
 
