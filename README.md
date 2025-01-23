@@ -21,6 +21,7 @@ Aqui estão alguns dos meus projetos mais recentes:
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react logo">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
@@ -37,6 +38,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 - **TypeScript**: Superset do JavaScript que adiciona tipagem estática.  
 - **Node.js**: Ambiente de execução JavaScript server-side.  
 - **React**: Biblioteca JavaScript para construção de interfaces de usuário.  
+- **Next.js**: Framework React para desenvolvimento de aplicações web.  
 - **HTML5**: Linguagem de marcação para estruturação de conteúdo web.  
 - **CSS3**: Linguagem de estilo para apresentação de conteúdo web.  
 - **Sass**: Pré-processador CSS que facilita a escrita de estilos.  
