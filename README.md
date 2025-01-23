@@ -6,7 +6,7 @@ Frontend Junior formada em Ciência da Computação, com experiência em desenvo
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-1. 🏥 **[E-Clinic](https://e-clinic-projeto.vercel.app/):** E-Clinic é um site moderno com autenticação via Google e agendamento online de consulta. 
+1. 🏥 **[E-Clinic](https://e-clinic-projeto.vercel.app/):** E-Clinic é um site moderno com autenticação via Google e Facebook, além de agendamento online de consultas. 
 
 2. 🏛️ **[Visual Designer](https://visual-designer-rust.vercel.app/):** Neste projeto, eu recriei um site de arquitetura usando React com novas funcionalidades.
 
